@@ -1,0 +1,50 @@
+______________________________________________________________________
+
+Dosen   |       Mahasiswa       |       Kelas   |       Jurusan
+______________________________________________________________________
+
+Adit    |       Kartika         |       IF-01   |       Informatika
+
+Arief   |       Ari             |       TT-04   |       Telekomunikasi
+
+Arief   |       Agung           |       TT-04   |       Telekomunikasi
+
+Bambang |       Ahmad           |       IF-03   |       Informatika
+
+Bambang |       Made            |       IF-03   |       Informatika
+
+Bambang |       Nugroho         |       IF-03   |       Informatika
+
+Bayu    |       Dewi            |       DK-03   |       DKV
+
+Budi    |       Adi             |       TI-04   |       Industri
+
+Budi    |       Dyah            |       TI-04   |       Industri
+
+Dina    |       Namirah         |       EK-01   |       Ekonomi
+
+Indra   |       Rara            |       MB-04   |       MBTI
+
+Jajang  |       Abdul           |       TT-03   |       Telekomunikasi
+
+Kurnia  |       Novi            |       KM-02   |       Komunikasi
+
+Kurnia  |       Nur             |       KM-02   |       Komunikasi
+
+Puji    |       Fajar           |       DK-04   |       DKV
+
+Puspita |       Nanda           |       KM-05   |       Komunikasi
+
+Putu    |       Lestari         |       TE-03   |       Elektro
+
+Rahmat  |       Bagus           |       TI-02   |       Industri
+
+Rahmat  |       Wahyu           |       TI-02   |       Industri
+
+Susi    |       Rizky           |       MB-01   |       MBTI
+
+Sutisna |       Rahman          |       TE-01   |       Elektro
+
+Tuti    |       Nando           |       EK-04   |       Ekonomi
+
+Press any key to back to Menu Perwalian.

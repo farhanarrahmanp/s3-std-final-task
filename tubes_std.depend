@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1542071622 source:c:\users\ten\documents\tubes_std\queue.cpp
+	<stdio.h>
+	"queue.h"
+
+1542071627 c:\users\ten\documents\tubes_std\queue.h
+	<iostream>
+
+1542078671 source:c:\users\ten\documents\tubes_std\stack.cpp
+	<stdio.h>
+	"stack.h"
+
+1542091065 c:\users\ten\documents\tubes_std\stack.h
+	<iostream>
+
+1543330243 source:c:\users\ten\documents\tubes_std\main.cpp
+	<conio.h>
+	<iostream>
+	<dos.h>
+	<stdlib.h>
+	"header.h"
+	"Mhs.h"
+	"Dosen.h"
+
+1543147583 source:c:\users\ten\documents\tubes_std\body.cpp
+	"header.h"
+
+1543333304 c:\users\ten\documents\tubes_std\header.h
+	<iostream>
+	<iostream>
+
+1543317118 c:\users\ten\documents\tubes_std\body.cpp
+	"header.h"
+
+1543147583 source:c:\users\ten\documents\tubes_std\header.h
+	<iostream>
+
+1543326189 source:c:\users\ten\documents\tubes_std\dosen.cpp
+	"Dosen.h"
+
+1543330341 c:\users\ten\documents\tubes_std\dosen.h
+	"header.h"
+
+1543330341 c:\users\ten\documents\tubes_std\mhs.h
+	"header.h"
+
+1543332466 source:c:\users\ten\documents\tubes_std\mhs.cpp
+	"Mhs.h"
+
+1543980442 source:c:\users\ten\documents\tubes_std - copy\dosen.cpp
+	"Dosen.h"
+
+1543761216 c:\users\ten\documents\tubes_std - copy\dosen.h
+	"header.h"
+
+1543980442 source:c:\users\ten\documents\tubes_std - copy\mhs.cpp
+	"Mhs.h"
+
+1543761216 c:\users\ten\documents\tubes_std - copy\mhs.h
+	"header.h"
+
+1543544406 c:\users\ten\documents\tubes_std - copy\header.h
+	<iostream>
+
+1543982171 source:c:\users\ten\documents\tubes_std - copy\main.cpp
+	<conio.h>
+	<iostream>
+	<dos.h>
+	<stdlib.h>
+	<windows.h>
+	"Mhs.h"
+	"Dosen.h"
+	"Relasi.h"
+	"header.h"
+
+1543544497 c:\users\ten\documents\tubes_std - copy\relasi.h
+	"Mhs.h"
+	"Dosen.h"
+	"header.h"
+
+1543980442 source:c:\users\ten\documents\tubes_std - copy\relasi.cpp
+	"Relasi.h"
+

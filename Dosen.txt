@@ -1,0 +1,38 @@
+______________________________________________________________________
+
+Nama    |       NIP     |       Fakultas        |       Jurusan
+______________________________________________________________________
+
+Adit    |       33351   |       FIF             |       Informatika
+
+Arief   |       30017   |       FTE             |       Telekomunikasi
+
+Bambang |       33112   |       FIF             |       Informatika
+
+Bayu    |       35821   |       FIK             |       DKV
+
+Budi    |       32144   |       FRI             |       Industri
+
+Dina    |       34123   |       FEB             |       Ekonomi
+
+Indra   |       34654   |       FEB             |       MBTI
+
+Jajang  |       30020   |       FTE             |       Telekomunikasi
+
+Kurnia  |       37351   |       FKB             |       Komunikasi
+
+Puji    |       35145   |       FIK             |       DKV
+
+Puspita |       37112   |       FKB             |       Komunikasi
+
+Putu    |       31456   |       FTE             |       Elektro
+
+Rahmat  |       32254   |       FRI             |       Industri
+
+Susi    |       34456   |       FEB             |       MBTI
+
+Sutisna |       31351   |       FTE             |       Elektro
+
+Tuti    |       36017   |       FEB             |       Ekonomi
+
+Press any key to back to Menu Dosen.

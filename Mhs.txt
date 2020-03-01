@@ -1,0 +1,50 @@
+______________________________________________________________
+
+Nama    |       NIM     |       Kelas   |       Jurusan
+______________________________________________________________
+
+Abdul   |       10162   |       TT-03   |       Telekomunikasi
+
+Adi     |       12123   |       TI-04   |       Industri
+
+Agung   |       10264   |       TT-04   |       Telekomunikasi
+
+Ahmad   |       13142   |       IF-03   |       Informatika
+
+Ari     |       10267   |       TT-04   |       Telekomunikasi
+
+Bagus   |       12135   |       TI-02   |       Industri
+
+Dewi    |       15513   |       DK-03   |       DKV
+
+Dyah    |       12168   |       TI-04   |       Industri
+
+Fajar   |       15136   |       DK-04   |       DKV
+
+Kartika |       13655   |       IF-01   |       Informatika
+
+Lestari |       11513   |       TE-03   |       Elektro
+
+Made    |       13211   |       IF-03   |       Informatika
+
+Nando   |       16372   |       EK-04   |       Ekonomi
+
+Namirah |       16273   |       EK-01   |       Ekonomi
+
+Nanda   |       17265   |       KM-05   |       Komunikasi
+
+Novi    |       17253   |       KM-02   |       Komunikasi
+
+Nugroho |       13172   |       IF-03   |       Informatika
+
+Nur     |       17142   |       KM-02   |       Komunikasi
+
+Rahman  |       11783   |       TE-01   |       Elektro
+
+Rara    |       14098   |       MB-04   |       MBTI
+
+Rizky   |       14273   |       MB-01   |       MBTI
+
+Wahyu   |       12256   |       TI-02   |       Industri
+
+Press any key to back to Menu Mahasiswa.
